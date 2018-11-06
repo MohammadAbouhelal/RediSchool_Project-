@@ -1,4 +1,4 @@
-# My first reposotiry
+# My first repositiry
 
 ## Hi I am Mohammad 
 
